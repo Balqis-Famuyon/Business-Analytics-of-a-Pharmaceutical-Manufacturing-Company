@@ -1,5 +1,5 @@
 # Business-Analytics-of-a-Pharmaceutical-Manufacturing-Company
-Seaborne library will be used for visualization
+Seaborn library will be used for visualization
 
 ## Data cleaning
    ### Clean the Sales and Quantity data.
